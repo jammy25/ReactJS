@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          K is Learning React
+          Kishan is Learning React
         </a>
       </header>
     </div>
